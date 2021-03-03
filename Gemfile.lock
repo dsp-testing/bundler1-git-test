@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/deivid-rodriguez/byebug
+  revision: fead41cb53d349e11045a05cc804740089dbfa80
+  ref: v11.1.0
+  specs:
+    byebug (11.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    business (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  business (~> 1.0.0)
+  byebug!
+
+BUNDLED WITH
+   1.17.3
