@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/deivid-rodriguez/byebug
+  remote: git@github.com:deivid-rodriguez/byebug.git
   revision: fead41cb53d349e11045a05cc804740089dbfa80
   ref: v11.1.0
   specs:
